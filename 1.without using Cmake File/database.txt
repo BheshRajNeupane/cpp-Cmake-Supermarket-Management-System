@@ -1,0 +1,4 @@
+ 5 Bread 50 2
+ 7 CupCake 20 1
+ 8 Noodles 40 2
+ 23 wheat 300 3
